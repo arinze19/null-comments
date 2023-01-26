@@ -1,4 +1,4 @@
-# Null Comment
+### Null Comment
 
 Null Comment is a chrome extension that helps reduce the "noise" when scrolling through twitter. It does this by hiding the analytics count on a post (likes, views, etc) which makes you less prone to herd judgement and more inclined to engage and share your idea with posts that really connect with you.
 
