@@ -26,6 +26,12 @@ Chrome Options -> More Tools -> Extensions -> Developer Mode (ON) -> Load Unpack
 
 Hop into [twitter](https://twitter.com) and try it out!
 
+
+### Demo
+
+https://user-images.githubusercontent.com/41495197/215346053-3cfbb86c-126d-4f2d-8957-576618dd87e3.mov
+
+
 ## Contributing
 
 Please feel free to open up a PR with new ideas and features.
