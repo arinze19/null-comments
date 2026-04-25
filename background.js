@@ -6,7 +6,7 @@ try {
         target: { tabId: details.tabId },
       });
     },
-    { urls: ['<all_urls>'] }
+    { urls: ['https://*.twitter.com/*', 'https://*.x.com/*', 'http://*.twitter.com/*', 'http://*.x.com/*'] }
   );
 } catch (error) {
   console.log(error);
